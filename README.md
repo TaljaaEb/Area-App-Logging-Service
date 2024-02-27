@@ -10,3 +10,5 @@ proxy.py     In computer networking, a proxy server is a server application that
              between a client requesting a resource and the server providing that resource.
 
 getwin.py    Retrieves the window handle to the active window attached to the calling thread's message queue.
+
+main.py      A handle to the process with memory that is being read.
