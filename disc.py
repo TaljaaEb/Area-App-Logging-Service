@@ -1,8 +1,9 @@
+#ALS
 from socket import *
 import sys, time
 from datetime import datetime
 import socket
-host = ''
+host = '' 
 max_port = 8901
 min_port = 8899 #80
 
