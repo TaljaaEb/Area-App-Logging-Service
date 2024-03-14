@@ -28,3 +28,5 @@ service.py   Windows service.
 class.py     Re-Buffering FIFO Validation.
 
 pver.py      Too be used with pipe.py as service.py
+
+e0.p & e1.py Is a set that is used together, and with comtypes, comipc libraries. Control-Flow for service...
