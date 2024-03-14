@@ -26,3 +26,5 @@ serial.py    Read data.
 service.py   Windows service.
 
 class.py     Re-Buffering FIFO Validation.
+
+pver.py      Too be used with pipe.py as service.py
